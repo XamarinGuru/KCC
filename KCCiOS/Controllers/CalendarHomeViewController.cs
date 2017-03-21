@@ -24,7 +24,7 @@ namespace location2
 		{
 			base.ViewDidLoad();
 
-			XuniLicenseManager.Key = License.Key;
+			XuniLicenseManager.Key = License.iOSKey;
 
 			viewCycle.Alpha = 0;
 			viewRunning.Alpha = 0;
