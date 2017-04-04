@@ -21,7 +21,8 @@ namespace location2
 
 		EKCalendar goHejaCalendar = null;
 
-		public override UIWindow Window {
+		public override UIWindow Window
+		{
 			get;
 			set;
 		}
