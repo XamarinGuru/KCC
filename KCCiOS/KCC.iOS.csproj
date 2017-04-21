@@ -43,7 +43,7 @@
     <AssemblyName>Nitro</AssemblyName>
     <MtouchLink>SdkOnly</MtouchLink>
     <MtouchFloat32>true</MtouchFloat32>
-    <CodesignProvision>082dc140-9412-4198-9522-1eaac12a271e</CodesignProvision>
+    <CodesignProvision>KCC-pro</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <Optimize>true</Optimize>
