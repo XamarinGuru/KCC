@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "761255921782",
+    "firebase_url": "https://krayot-cycling-cloub.firebaseio.com",
+    "project_id": "krayot-cycling-cloub",
+    "storage_bucket": "krayot-cycling-cloub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761255921782:android:dd1e0c285e6574e1",
+        "android_client_info": {
+          "package_name": "goheja.kcc.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761255921782-aspfl9agtmi9nv6r9sf0t28l4gqvnorf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3dXOTNxd4L2IIhLwpG_KlcWMzhcL89I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
